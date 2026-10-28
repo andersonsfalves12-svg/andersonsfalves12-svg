@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou o Ânderson 👋</h1>
 
 <p align="center">
-  Estudante de Ciência da Computação na <b>UFABC</b> · Candidato a <b>Estágio em Desenvolvimento Back-end / Engenharia de Software</b><br>
+  Estudante de Ciência e Tecnologia na <b>UFABC</b> · Candidato a <b>Estágio em Desenvolvimento Back-end / Engenharia de Software</b><br>
   📍 Santo André, São Paulo
 </p>
 
